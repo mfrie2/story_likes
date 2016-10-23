@@ -1,7 +1,7 @@
-require 'pry'
 
-#write a method that accepts two parameters: title and rating
-  #the method should print the story title and the rating out of ten
+
+#write a function that accepts two parameters as strings: movie title and movie rating (out of ten)
+  #the function, when called, should print the story title and the rating out of ten
 
 
 #show the user a message that says "Welcome to Movie Rating"
