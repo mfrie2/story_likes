@@ -19,5 +19,5 @@ puts("What rating out of ten would you give the movie?")
 # store the input in a variable
 user_rating = gets.strip
 
-display_story(user_title, user_rating)
-puts("You gave #{user_title} a #{user_rating} out of ten.)
+#display_story(user_title, user_rating)
+puts("You gave #{user_title} a #{user_rating} out of ten.")
